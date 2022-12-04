@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "firstName": "Joe",
+      "lastName": "Smith",
+      "emailAddress": "joe@smith.com",
+      "password": "joepassword"
+    },
+    {
+      "firstName": "Sally",
+      "lastName": "Jones",
+      "emailAddress": "sally@jones.com",
+      "password": "sallypassword"
+    }
+  ],
+  "articles": [
+    {
+      "userId": 1,
+      "title": "Article 1",
+      "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. In finibus nisi ac purus varius luctus. Nam placerat, orci in consectetur bibendum, justo urna placerat justo, nec consectetur ipsum lorem in sem. Suspendisse vitae iaculis ligula. Suspendisse ornare semper mauris, a finibus massa gravida quis. Donec dapibus libero ac elit sodales porta. Duis consectetur lectus et odio varius, at hendrerit tortor rutrum. Nullam malesuada vestibulum nunc vitae imperdiet. Sed sit amet elit sed ex tempus lacinia sit amet in orci.",
+      "estimatedTime": "30 minutes"
+      },
+    {
+      "userId": 2,
+      "title": "Article 2",
+      "description": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras id velit dui. Etiam feugiat tellus ac sem ullamcorper ornare. Sed aliquet in augue non dictum. Vivamus bibendum ligula in lorem dapibus, quis rhoncus nisi lacinia. Fusce iaculis, lectus auctor ultricies posuere, quam lacus dapibus odio, vitae vehicula velit erat ultrices lectus. Nullam finibus velit in dapibus malesuada. Vestibulum viverra elit quis dui iaculis molestie. Maecenas mi felis, bibendum eu neque ut, scelerisque tempus sapien. Donec sollicitudin neque diam. Nunc sed libero metus. Morbi consectetur rutrum massa, sit amet facilisis lectus venenatis nec. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. ",
+      "estimatedTime": "2 minutes"
+    },
+    {
+      "userId": 2,
+      "title": "Article 3",
+      "description": " Nam felis diam, rutrum ut ultricies vel, ullamcorper ac quam. Vestibulum a orci malesuada, condimentum ex vel, convallis diam. Maecenas id fermentum arcu, volutpat ullamcorper metus. Maecenas sit amet dignissim tellus. Aliquam rutrum vulputate dui in consequat. Nulla lectus lectus, interdum vel leo id, accumsan finibus mauris. Curabitur ultricies condimentum leo tempor sollicitudin. Donec feugiat purus vel molestie pulvinar. Donec convallis erat odio, non pulvinar odio luctus at. Sed et enim libero. Duis pulvinar fermentum mauris, vel finibus arcu gravida sit amet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elit libero, mollis accumsan commodo et, ornare vel ante. Mauris vel libero purus. Curabitur ultricies ligula id blandit iaculis. Curabitur lobortis consequat orci ac pulvinar. "
+    }
+  ]
+}
